@@ -1,0 +1,27 @@
+
+{{ if .Params.locked }}
+  <form class="form form-access">
+
+    <p>
+      Please enter your credentials to access this content.
+    </p>
+
+    <label>User
+      <input name="user" type="text" autofocus="true"/>
+    </label>
+
+    <label>Pass
+      <input name="user" type="password" />
+    </label>
+
+    <button class="btn" type="submit" />Get Access</button>
+
+  </form>
+
+  <div id="encoded-content" style="display: none;">
+    {{ .Content | base64Encode }}
+  </div>
+
+{{ else }}
+  {{ .Content }}
+{{ end }}

@@ -1,0 +1,89 @@
+baseURL = ""
+languageCode = "en"
+title = "Formaviva Blog"
+theme = "kundi"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+
+# Disqus Username
+disqusShortname = ""
+
+# Google Analytics UA number
+googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© Formaviva"
+
+[author]
+    name = "Aljaž Fajmut"
+
+[permalinks]
+  post = "/:title/"
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+# Initial site menu, you can extend menu with content.
+# [[menu.main]]
+  # name = "Blog"
+  # weight = 10
+  # identifier = "home"
+  # url = "/blog/"
+[[menu.main]]
+  name = "Blog"
+  weight = 10
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "Learn more"
+  weight = 20
+  identifier = "learn more"
+  url = "/learn-more/"
+
+# Add your own params here
+[params]
+  author = "Ritchie Zhu"
+  avatar = "/images/logo.png"
+  seotitle = "Hugo Blog (SEO Version)"
+  subtitle = "The Future is Here"
+  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  paginate = 10
+
+  # Choose your social networks
+  email = "name@domain.com"
+  github = "github_username"
+  twitter = "twitter_username"
+  linkedin = "linkedin_username"
+  weibo = "weibo_username"
+  wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
+  # facebook = "facebook_username"
+  # google = "googlplus_id_number"
+  # instagram = "instagram_username"
+  # youtube = "youtube_username"
+  # vimeo = "vimeo_username"
+  # medium = "medium_username"
+  # quora = "quora_username"
+  # pinterest = "pinterest_username"
+  # dribbble = "dribbble_username"
+  # behance = "behance_username"
+  # jsfiddle = "jsfiddle_username"
+  # codepen = "codepen_username"
+  # zhihu = "zhihu_username"
+  # douban = "douban_username"
+  # bilibili = "bilibili_id_number"
+  # stackoverflow = "laozhu"
+  # codesandbox = "melaozhu"
+  # npm = "laozhu"
+  # reddit = "melaozhu"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  msValidate = "22596E34341DD1D17D6022C44647E587"

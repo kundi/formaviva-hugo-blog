@@ -1,0 +1,8 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+{{- $md5 := resources.Get "scripts/md5.js" | resources.Minify -}}
+{{- $script := resources.Get "scripts/forma.js" | resources.Minify -}}
+
+<!-- Main Scripts -->
+<script src="{{ $md5.RelPermalink }}"></script>
+<script src="{{ $script.RelPermalink }}"></script>

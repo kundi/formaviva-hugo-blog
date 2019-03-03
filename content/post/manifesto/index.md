@@ -7,6 +7,7 @@ authors:
 - Aljaz Fajmut
 date: 2019-01-17 00:00:00 +0000
 locked: true
+draft: true
 
 ---
 There probably hasn’t been a field in the industry as electronic music on internet that would have changed so much in the last years — not necessarily in the positive way. So much that the whole ecosystem, genre perception and old websites were twisted and turned upside down. With Beatport and Soundcloud commercializing music and encouraging average music content, and without vision of the future, the alternative electronic music artists seem to be left behind with using alternatives such Spotify as Bandcamp, which are not really suited to the needs of the time. And are sufficient in getting music distributed, but is that really what could there be?

@@ -1,14 +1,14 @@
 ---
-title: "Formaviva Manifesto"
-img: "nightwatch-creating-the-tracker.jpg"
+title: Formaviva Manifesto
+img: nightwatch-creating-the-tracker.jpg
 tags: []
 categories: []
 authors:
-  - Aljaz Fajmut
-date: 2019-01-17
+- Aljaz Fajmut
+date: 2019-01-17 00:00:00 +0000
 locked: true
----
 
+---
 There probably hasn’t been a field in the industry as electronic music on internet that would have changed so much in the last years — not necessarily in the positive way. So much that the whole ecosystem, genre perception and old websites were twisted and turned upside down. With Beatport and Soundcloud commercializing music and encouraging average music content, and without vision of the future, the alternative electronic music artists seem to be left behind with using alternatives such Spotify as Bandcamp, which are not really suited to the needs of the time. And are sufficient in getting music distributed, but is that really what could there be?
 
 We’ve been preparing for this moment as long as we can remember. The music world needs a change.
@@ -16,6 +16,7 @@ We’ve been preparing for this moment as long as we can remember. The music wor
 # Existing platforms overview
 
 ## Beatport
+
 I remember the times when Beatport was the one main source where you would go to look for electronic music. I admired their old outstanding flash-technology website, which back in times was quite advanced, and made browsing and finding music an enjoyable experience that other websites could not get close to. It was a perfect combination with forward-thinking electronic music. Being on a platform like Beatport, it meant something. If you weren’t there, it was like you were non-existent in the music scene.
 Soundcloud
 Then there was Soundcloud. A great, promising platform, which brought a new and better listening experience in times when there was no other platform for that purpose. So it somehow made sense to pay hundred bucks to get more hosting space for tracks and mixes there when there were not other sites to do it.
@@ -34,8 +35,9 @@ Why? It doesn’t take a lot of effort to notice the reasons for that — 1 clic
 
 Bandcamp is great. But it’s not the ideal solution for electronic music. We believe there could and should be more.
 
-Other platforms
-With all those semi-working options, still djs  and music lovers today need to go to multiple places to find what they are looking for. From unfavourable Youtube, to Bandcamp and Soundcloud where one can listen mostly only to snippets, and to local dj vinyl and digital stores such as juno, deejay.de, ….
+### Other platforms
+
+### With all those semi-working options, still djs  and music lovers today need to go to multiple places to find what they are looking for. From unfavourable Youtube, to Bandcamp and Soundcloud where one can listen mostly only to snippets, and to local dj vinyl and digital stores such as juno, deejay.de, ….
 
 There is no single platform of authority, which would encourage alternative electronic music creators to create, share and support their music by providing them with a platform for good user experience, thriving community and fair fees.
 
@@ -55,47 +57,38 @@ But we are aware that the path there is long, and that it will take time.
 So we are starting at the beginning.
 
 Here are the problems that we’re already solving:
+
 1. High-quality waveform persistent player
-A player that feels good should be one of the most important components on the website. With a good representation of waveform and high-quality streaming.
-
+   A player that feels good should be one of the most important components on the website. With a good representation of waveform and high-quality streaming.
 2. Easy merchandising
-Ability to configure digital and physical music merchandising fast, and enable creators to get insights they need to adjust content to their listeners.
-
+   Ability to configure digital and physical music merchandising fast, and enable creators to get insights they need to adjust content to their listeners.
 3. Fast checkout
-Giving listeners ability to be able to complete the checkout is the fastest possible way, without unnecessary steps.
-
+   Giving listeners ability to be able to complete the checkout is the fastest possible way, without unnecessary steps.
 4. Advanced analytics
-With the first version of the platform, we already have heatmap tracking on the music, so everyone can see how listeners interact with the music.
-
+   With the first version of the platform, we already have heatmap tracking on the music, so everyone can see how listeners interact with the music.
 5. Curated music
-The only way to establish a healthy ecosystem and community is to limit and set standards for the high-quality content that we would all want. We want to enable music enthusiasts so they can influence who and what kind of music they want to have on the platform.
-
+   The only way to establish a healthy ecosystem and community is to limit and set standards for the high-quality content that we would all want. We want to enable music enthusiasts so they can influence who and what kind of music they want to have on the platform.
 6. Wire-transfer / PayPal payment
-Allow content creators to decide when and how they want to get paid. We want to do best we can do to reduce their costs and barriers around receiving payments.
+   Allow content creators to decide when and how they want to get paid. We want to do best we can do to reduce their costs and barriers around receiving payments.
 
 We are visionnaires. Here are some more things that we want to bring on the platform:
-- Fast sync
-Automatic sync of all music that you purchase on the platform directly to your Desktop / Mobile.
 
-- Music analysis
-More sophisticated and innovative ways of music analysis.
-
-- Recommendations
-Improved recommendations systems adjusted for alternative electronic music.
-
-- Music library management
-Ability to automatically sync purchased music with your local audio library with CDJ processed files and file naming adjusted to your preference.
-
-- Mobile app
-Mobile app, designed for improved music discovery and listening experience.
-
-- Cryptocurrency payment
-Ability to support artists and purchase products with cryptocurrencies.
+* Fast sync
+  Automatic sync of all music that you purchase on the platform directly to your Desktop / Mobile.
+* Music analysis
+  More sophisticated and innovative ways of music analysis.
+* Recommendations
+  Improved recommendations systems adjusted for alternative electronic music.
+* Music library management
+  Ability to automatically sync purchased music with your local audio library with CDJ processed files and file naming adjusted to your preference.
+* Mobile app
+  Mobile app, designed for improved music discovery and listening experience.
+* Cryptocurrency payment
+  Ability to support artists and purchase products with cryptocurrencies.
 
 A
 The future is bright. We are excited.
 
 We believe that this platform will make a difference -- to enable artists to reach the right and broader audience they deserve for their music.
-
 
 Aljaž Fajmut

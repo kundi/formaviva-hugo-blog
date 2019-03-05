@@ -33,7 +33,7 @@ Then there appeared to be some bright light in the end of the tunnel. Bandcamp. 
 
 But, there was and is one problem. It is that Bandcamp was not made for electronic music. Nor was it made by people who understand what a good user experience on internet is and what it should be (in this case listening and finding new music). And there for its not a platform designed truly designed for electronic music.
 
-Why? It doesn’t take a lot of effort to notice the reasons for that — 1 click player, painful checkout, dysfunctional music discovery algorithms, poor streaming options, and we could go on…
+Why? It doesn’t take a lot of effort to notice the reasons for that — 1 click player, painful checkout, dysfunctional music discovery algorithms, poor streaming options, and we could go on...
 
 Bandcamp is great. But it’s not the ideal solution for electronic music. We believe there could and should be more.
 

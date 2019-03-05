@@ -26,6 +26,8 @@ But as years went by, times on internet have changed. The infrastructure became 
 With acquisition of Beatport by SFX (the company that runs Tomorrowland and other commercial events), and inability of Soundcloud to adapt to the new consumer needs, they became a dumping point for poor musical content and commercial electronic music.
 Spotify
 On the other hand, giant platforms like Spotify or Apple music were never a good option for alternative artists because of their business models and calculations behind rewards for creators. They are designed to make main-stream popular artists rich, and dishonour alternative artists, which are paid on the same criteria as mainstream artists, which hardly makes them earn any pennies, even though they are actually ones who create quality content.
+
+
 Bandcamp
 Then there appeared to be some bright light in the end of the tunnel. Bandcamp. A promising platform with different mentality behind, supporting artists and labels and enabling them to merchandise their music and earn money they deserve. It put power in hands of the content creators, and allowed them to be in control of releasing music and selling it.
 

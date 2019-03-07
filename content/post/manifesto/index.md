@@ -9,15 +9,15 @@ date: 2019-01-17 00:00:00 +0000
 locked: true
 
 ---
-There probably hasn’t been a field in the industry as electronic music on internet that would have changed so much in the last years — not necessarily in the positive way. So much that the whole ecosystem, genre perception and old websites were twisted and turned upside down. With Beatport and Soundcloud commercializing music and encouraging average music content, and without vision of the future, the alternative electronic music artists seem to be left behind with using alternatives such Spotify as Bandcamp, which are not really suited to the needs of the time. And are sufficient in getting music distributed, but is that really what could there be?
+There probably hasn't been a field in the industry as electronic music on internet that would have changed so much in the last years - not necessarily in the positive way. So much that the whole ecosystem, genre perception and old websites were twisted and turned upside down. With Beatport and Soundcloud commercializing music and encouraging average music content, and without vision of the future, the alternative electronic music artists seem to be left behind with using alternatives such Spotify as Bandcamp, which are not really suited to the needs of the time. And are sufficient in getting music distributed, but is that really what could there be?
 
-We’ve been preparing for this moment as long as we can remember. The music world needs a change.
+We've been preparing for this moment as long as we can remember. The music world needs a change.
 
 # Existing platforms overview
 
 ## Beatport
 
-I remember the times when Beatport was the one main source where you would go to look for electronic music. I admired their old outstanding flash-technology website, which back in times was quite advanced, and made browsing and finding music an enjoyable experience that other websites could not get close to. It was a perfect combination with forward-thinking electronic music. Being on a platform like Beatport, it meant something. If you weren’t there, it was like you were non-existent in the music scene.
+I remember the times when Beatport was the one main source where you would go to look for electronic music. I admired their old outstanding flash-technology website, which back in times was quite advanced, and made browsing and finding music an enjoyable experience that other websites could not get close to. It was a perfect combination with forward-thinking electronic music. Being on a platform like Beatport, it meant something. If you weren't there, it was like you were non-existent in the music scene.
 Soundcloud
 Then there was Soundcloud. A great, promising platform, which brought a new and better listening experience in times when there was no other platform for that purpose. So it somehow made sense to pay hundred bucks to get more hosting space for tracks and mixes there when there were not other sites to do it.
 
@@ -33,9 +33,9 @@ Then there appeared to be some bright light in the end of the tunnel. Bandcamp. 
 
 But, there was and is one problem. It is that Bandcamp was not made for electronic music. Nor was it made by people who understand what a good user experience on internet is and what it should be (in this case listening and finding new music). And there for its not a platform designed truly designed for electronic music.
 
-Why? It doesn’t take a lot of effort to notice the reasons for that — 1 click player, painful checkout, dysfunctional music discovery algorithms, poor streaming options, and we could go on...
+Why? It doesn't take a lot of effort to notice the reasons for that — 1 click player, painful checkout, dysfunctional music discovery algorithms, poor streaming options, and we could go on...
 
-Bandcamp is great. But it’s not the ideal solution for electronic music. We believe there could and should be more.
+Bandcamp is great. But it's not the ideal solution for electronic music. We believe there could and should be more.
 
 ### Other platforms
 
@@ -58,7 +58,7 @@ But we are aware that the path there is long, and that it will take time.
 
 So we are starting at the beginning.
 
-Here are the problems that we’re already solving:
+Here are the problems that we're already solving:
 
 1. High-quality waveform persistent player
    A player that feels good should be one of the most important components on the website. With a good representation of waveform and high-quality streaming.
@@ -93,4 +93,4 @@ The future is bright. We are excited.
 
 We believe that this platform will make a difference -- to enable artists to reach the right and broader audience they deserve for their music.
 
-Aljaž Fajmut
+Aljaz Fajmut

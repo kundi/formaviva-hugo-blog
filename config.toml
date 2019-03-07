@@ -5,7 +5,6 @@ theme = "kundi"
 enableRobotsTXT = true
 PygmentsCodeFences = true
 canonifyurls = true
-
 # Disqus Username
 disqusShortname = ""
 
@@ -53,6 +52,8 @@ copyright = "© Formaviva"
   subtitle = "The Future is Here"
   description = "Electronic music platform for independent artists and labels."
   paginate = 10
+  all_page_rss = false  # Set true if you want to allow rss feed for locked post
+
 
   # Choose your social networks
   email = "aljaz@formaviva.com"

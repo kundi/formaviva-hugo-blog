@@ -1,12 +1,18 @@
+$primary: #2bb39a;
+
 @import '../../../themes/kundi/assets/styles/partials/variables';
 
 $main-background: $black;
 $text: #fff;
 
-$navbar-bg: $black;
+$navbar-bg: #141414;
 $navbar-link-color: #ccc;
 
 $footer-bg: $black;
 $footer-text-color: $white;
 
 $btn-color: $white;
+
+$author-social-icon-color: $primary;
+
+$post-box-bg: #161616;

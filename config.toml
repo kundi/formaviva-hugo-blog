@@ -32,17 +32,18 @@ copyright = "© Formaviva"
   # weight = 10
   # identifier = "home"
   # url = "/blog/"
+
 [[menu.main]]
   name = "Blog"
   weight = 10
   identifier = "blog"
   url = "/"
 
-[[menu.main]]
-  name = "Learn more"
-  weight = 20
-  identifier = "learn more"
-  url = "/learn-more/"
+# [[menu.main]]
+#   name = "Learn more"
+#   weight = 20
+#   identifier = "learn more"
+#   url = "/learn-more/"
 
 # Add your own params here
 [params]
@@ -50,16 +51,16 @@ copyright = "© Formaviva"
   avatar = "/images/logo.png"
   seotitle = "Hugo Blog (SEO Version)"
   subtitle = "The Future is Here"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  description = "Electronic music platform for independent artists and labels."
   paginate = 10
 
   # Choose your social networks
-  email = "name@domain.com"
-  github = "github_username"
-  twitter = "twitter_username"
-  linkedin = "linkedin_username"
-  weibo = "weibo_username"
-  wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
+  email = "aljaz@formaviva.com"
+  # github = "github_username"
+  twitter = "aljazfajmut"
+  linkedin = "aljazfajmut"
+  # weibo = "weibo_username"
+  # wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
   # facebook = "facebook_username"
   # google = "googlplus_id_number"
   # instagram = "instagram_username"
@@ -86,4 +87,4 @@ copyright = "© Formaviva"
 
   # Bing Webmaster
   # https://www.bing.com/toolbox/webmaster/
-  msValidate = "22596E34341DD1D17D6022C44647E587"
+  # msValidate = "22596E34341DD1D17D6022C44647E587"

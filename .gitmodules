@@ -1,3 +1,3 @@
 [submodule "themes/kundi"]
 	path = themes/kundi
-	url = https://github.com/kundi/hugo-kundi-theme
+	url = https://github.com/kundi/hugo-kundi-theme.git

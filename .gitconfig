@@ -1,0 +1,2 @@
+[alias]
+    updatesubs = "!sh -c \"git submodule init && git submodule update && git submodule status\" "
